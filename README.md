@@ -2,9 +2,9 @@
 
 The script will search usernames across 70 social networks. It is nice if you want to determine the usage of the same username on different social networks.
 
-It is a rewrite and clean-up of the finduser utility by (https://github.com/xHak9x/finduser) [https://github.com/xHak9x/finduser]
+It is a rewrite and clean-up of the finduser utility by https://github.com/xHak9x/finduser
 
-One can easily extend the range of social media sides by appending one with a placeholder for search string '{user_to_search}' for the user name onto the social_media_urls.txt file.
+One can easily extend the range of social media sides by appending one with a placeholder for search string ```{user_to_search}``` for the user name onto the social_media_urls.txt file.
 
 I generated this one with the below code:
 
